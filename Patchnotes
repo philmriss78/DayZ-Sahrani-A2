@@ -1,0 +1,15 @@
+Update 13.11.2024
+
+Import from Arma2 / SMD Sahrani and restore 647885 objects
+
+placement of 5686 road elements Sahrani North Island
+placement of 5480 road elements Sahrani South Island  due to outgoing building material it may well be that some have not been completed, please          report this in    the Discord ⁠❌-sahrani-bugs
+
+CE integrated, fine tuning will follow Types, T - Zonen integrated Navmesh created 468 times ( Thanks DayZ Update 1.26 )
+
+Todo
+
+Humwee and Landrover attachments currently do not work via the spawnabletypes ( since 1.26 ) Bug is known
+Zombies have no loot in the inventory since 1.26 ( are there any useful tips ) Spawnabletypes are there though
+
+Revision of all old models / models exchanged with known DayZ models. Bugs in Meddellen have been fixed. However, this process is still ongoing
