@@ -32,3 +32,49 @@ added 3 Trailer
 added Camonet Desert
 aded Road blockade South Island
 added Trailerpark
+
+jOoPs — 06.12.2024 13:59
+Land_smd_hiluxT / land_hiluxT = Land_wreck_hiluxT
+land_datsun01T =  Land_wreck_datsun01T
+land_datsun02T = Land_wreck_datsun02T
+
+gilt für alle Objekte des Types Wreck ....
+Land_wreck_bvpLt, Land_wreck_datsun01T, Land_wreck_datsun02T, Land_wreck_hiluxT, Land_wreck_jeept, Land_wreck_jeept_horeznacky, Land_wreck_jeept_tanker, Land_wreck_m113t, Land_wreck_s1023_ambulance, Land_wreck_uralt
+
+all wreck Land-Classes are now scope=public (2)
+
+changes in smd_sao > buildings
+smd_budova3_open added (doors + oven-bila)
+smd_cihlovej_dum_mini added window  geometry
+smd_deutshe_mini added oven-bila
+smd_dumruina_mini added  (moved from smd_sao > buildings > ruins)
+smd_kostel_mexico geometry reworked
+smd_Panelak alpha-texture-error fixed
+smd_majak ladder adjusted
+smd_majak2 ladder adjusted
+smd_sara_domek_sedy added doorgrips
+removed benzina_schnell.p3d
+removed smd_budova3_open-OLD.p3d
+removed smd_benzina_schnell_open-OLD.p3d
+removed smd_dum_mesto_in-OLD.p3d
+removed smd_ss_hangar_withdoor.p3d
+removed smd_ss_hangard_withdoor.p3d
+removed smd_stanice-OLD.p3d
+removed smd_watertower1-OLD.p3d
+
+changes in smd_sao > buildings > ruins
+dumruina_mini removed (moved to smd_sao > buildings - renamed!)
+config.cfg added class house to prevent logspamn (missing class house)
+
+changes in smd_sao > buildings > furniture
+fireplace_big model added
+
+changes in smd_roads
+asf6konec roadway adjusted
+
+changes in smd_sahrani_scripts
+new buildings added to withfireplace.c
+
+note:
+diera_X.p3d could be removed
+kopa_X.p3d could be removed
