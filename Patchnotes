@@ -87,6 +87,25 @@ added Scientist Briefcase Event
 added Inventory in the Rhamadi hangar
 added Book with the lore / information about the bunker etc. 
 added a new Barel / Key Event ready
-added Inventory smd_sara_zluty_statek_in
 added Oilrig 
-
+(JOpPs)
+changes in smd_sao > buildings > funiture
+blankets_EP1.p3d added
+bowl_EP1.p3d added
+carpet_2_EP1.p3d added
+carpetV2_EP1.p3d added
+curtain_EP1.p3d added
+curtain_mirrored_EP1.p3d added
+pubg.p3d added
+urn_EP1.p3d added
+vase_EP1.p3d added
+vase_loam_EP1.p3d added
+vase_loam_2_EP1.p3d added
+vase_loam_3_EP1.p3d added
+Vojenska_palanda_modre.p3d added
+[17:45]
+changes in smd_sao > buildings
+smd_dum_m2.p3d replaced with enterable/2 doors/fireplace
+smd_sara_domek_hospoda.p3d replaced with enterable 4 door
+smd_sara_zluty_statek_in.p3d proxies changes/updates
+smd_sara_domek_ruina.p3d proxie changes/updates
