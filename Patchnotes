@@ -126,6 +126,15 @@ changes in smd_sao > buildings > misc
 removed semafor.p3d
 Stoplight01.p3d blinklight-effect added and active by default now
 
+changes in smd_sao > buildings
+smd_dum_m2.p3d proxies added
+smd_sara_zluty_statek_in proxies, oven, doorgrips added
+smd_bouda3 replaced 4 doors/ sfx-env
+smd_hut04 reworked
+smd_Panelak /2/3 textures replaced
+
+changes in smd_sahrani_scripts
+smd_sara_zluty_statek_in added to fireplaces.c
 
 added new Landrover
 
