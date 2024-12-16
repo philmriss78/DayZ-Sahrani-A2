@@ -125,3 +125,18 @@ smd_house_y_open.p3d replaced with enterable 4 door/proxie LOD fixed
 changes in smd_sao > buildings > misc
 removed semafor.p3d
 Stoplight01.p3d blinklight-effect added and active by default now
+
+
+added new Landrover
+
+Landrover
+Landrover Sahrani
+Landrover Red
+Landrover Woodland
+Landrover RACS
+Landrover RACS Digi
+Landrover ACRS
+
+added Spawnabletypes or all Landrover
+added Types for all Landrover
+added Event for Landrover
