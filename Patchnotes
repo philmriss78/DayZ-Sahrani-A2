@@ -109,3 +109,19 @@ smd_dum_m2.p3d replaced with enterable/2 doors/fireplace
 smd_sara_domek_hospoda.p3d replaced with enterable 4 door
 smd_sara_zluty_statek_in.p3d proxies changes/updates
 smd_sara_domek_ruina.p3d proxie changes/updates
+changes in smd_sao > buildings > furniture
+case_a.p3d added
+case_d.p3d added
+case_cans_b.p3d added
+library_a.p3d added
+lobby_case.p3d added
+radio_b.p3d added
+teapot_EP1.p3d added
+tv_a.p3d added
+
+changes in smd_sao > buildings
+smd_house_y_open.p3d replaced with enterable 4 door/proxie LOD fixed
+
+changes in smd_sao > buildings > misc
+removed semafor.p3d
+Stoplight01.p3d blinklight-effect added and active by default now
