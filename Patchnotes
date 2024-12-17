@@ -136,6 +136,16 @@ smd_Panelak /2/3 textures replaced
 changes in smd_sahrani_scripts
 smd_sara_zluty_statek_in added to fireplaces.c
 
+changes in smd_sao > buildings > furniture
+Vojenska_palanda.p3d updated material
+Vojenska_palanda_modre.p3d updated material
+Vojenska_palanda_blue.p3d added
+
+changes in smd_sao > buildings > furniture
+postel_manz_kov.p3d updated material
+postel_manz_kov_green.p3d added
+postel_manz_kov_blue.p3d added
+
 added new Landrover
 
 Landrover
@@ -146,6 +156,7 @@ Landrover RACS
 Landrover RACS Digi
 Landrover ACRS
 
-added Spawnabletypes or all Landrover
-added Types for all Landrover
+added Spawnabletypes / Types / Event for all Landrover
+added Wreck Merlin for Helicrash
+
 added Event for Landrover
