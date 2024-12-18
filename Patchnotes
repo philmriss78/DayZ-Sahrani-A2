@@ -146,6 +146,15 @@ postel_manz_kov.p3d updated material
 postel_manz_kov_green.p3d added
 postel_manz_kov_blue.p3d added
 
+changes in smd_sao > buildings
+smd_sara_domek_podhradi_1.p3d replaced (needs position adjustment - pixelwise)
+
+changes in smd_sao > buildings > misc
+smd_trashcan added
+
+general
+hellalot material changes in several buildings
+
 added new Landrover
 
 Landrover
