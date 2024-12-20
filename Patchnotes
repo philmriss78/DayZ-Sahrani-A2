@@ -203,3 +203,13 @@ Land_smd_majak adjusted lootpoints
 Land_smd_majak2 adjusted lootpoints
 Land_smd_Vysilac_FM adjusted lootpoints
 Land_smd_Vysilac_FM2 adjusted lootpoints
+
+
+- Project synchronized Status 20/12/2024
+- synchronization and adjustment mapgroupproto
+- 2 additional heliwrecks added ( Merlin AirTak and Merlin Medic) Lootpoints added
+- Added S1203 in events, spawnabletypes, types and spawnpoints
+- Kamaz ( 30 variation / skin / build ) added to events, spawnabletypes, types and spawnpoints
+---> VehicleMix3 S1203 / Kamaz / Landrover
+- Navmesh calculated
+-Port in Corazol changed
