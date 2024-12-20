@@ -170,3 +170,36 @@ added Wreck Merlin for Helicrash
 
 added Event for Landrover
 added White Death
+
+changes in smd_sao > buildings
+Barrack2_desert.p3d added (mil_barracks_round_desert.p3d replacement)
+Ind_Oil_Pump_EP1.p3d MLOD, animation port
+smd_bouda_plech_open.p3d adjusted position
+smd_bouda3 bugfix model-normals/shadow
+smd_dum_olez_istan2_open2.p3d added fireplace
+smd_garaz_mala_open.p3d bugfix doorcontroller
+smd_hut04.p3d adjusted position
+smd_sara_domek_ruina.p3d replaced fireplace
+smd_stanice.p3d bugfix model-shadows
+
+changes ind smd_sao > buildings > furniture
+case_d.p3d reworked geometry
+fireplace_medium.p3d added
+
+changes in smd_ss
+new buildings added to fireplace.c
+Land_wreck_hc3_merlin added to wreck-crashbase.c
+
+changes in sahrani_assets
+wreck_hc3_merlin.p3d reworked (position/memorypoints/etc...)
+
+changes in mission-file mapproto
+Land_Wreck_C130J added lootpoints
+Land_Wreck_C130J_Cargo added lootpoints
+Land_smd_bouda3 adjusted lootpoints
+Land_smd_dum_m2 added lootpoints
+Land_smd_garaz_mala_open added lootpoints
+Land_smd_majak adjusted lootpoints
+Land_smd_majak2 adjusted lootpoints
+Land_smd_Vysilac_FM adjusted lootpoints
+Land_smd_Vysilac_FM2 adjusted lootpoints
