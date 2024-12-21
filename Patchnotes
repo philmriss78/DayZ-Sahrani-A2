@@ -213,3 +213,11 @@ Land_smd_Vysilac_FM2 adjusted lootpoints
 ---> VehicleMix3 S1203 / Kamaz / Landrover
 - Navmesh calculated
 -Port in Corazol changed
+
+added new Helicrash Models ( Types / Event / Mapgroupproto )
+  -Merlin Dahoman
+  -Merlin Ion
+  -Merlin Lux
+  -Merlin President
+  -Vrana
+  -Wave
