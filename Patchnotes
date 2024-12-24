@@ -225,3 +225,17 @@ added a Cat model for proxies
 added 3 new Location
 changed SupportBillboard
 added Ford Bronco / Motorhome and GMC (Events, Spawnabletypes, Types)
+
+changes in smd_sao > buildings
+smd_bouda1.p3d replaced with own model
+smd_sara_domek_ruina.p3d polished and proxies added
+
+changes in smd_sao > buildings > furniture
+light_bathroom.p3d added
+light_kitchen_03.p3d added
+curtainrail.p3d added
+fluor_lamp.p3d added
+
+changes in mission-file mapproto
+Land_smd_bouda1 added lootpoints
+Land_smd_sara_domek_ruina changed lootpoints
