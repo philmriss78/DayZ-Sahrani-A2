@@ -239,3 +239,19 @@ fluor_lamp.p3d added
 changes in mission-file mapproto
 Land_smd_bouda1 added lootpoints
 Land_smd_sara_domek_ruina changed lootpoints
+
+changes in smd_sao > buildings
+smd_sara_domek_hospoda.p3d retextured
+smd_sara_domek_sedy.p3d retextured and new fireplace(2t2) added
+smd_deutshe_mini.p3d fixed oven uhli
+smd_hospoda_mesto.p3d added oven uhli
+Ryb_domek.p3d fixed oven uhli
+smd_sara_domek_podhradi_1.p3d added oven uhli
+smd_sara_zluty_statek_in.p3d fixed oven uhli
+smd_budova3_open.p3d fixed oven uhli
+smd_bouda1.p3d fixed oven uhli
+smd_house_y_open.p3d fixed LOD und geometry - added different materials
+Ind_FuelStation_Sign_ep1.p3d added fire-geometry - using DZ pentration-matatrial now
+
+changes in smd_sao > buildings > misc
+zavora_2.p3d REMOVED!
