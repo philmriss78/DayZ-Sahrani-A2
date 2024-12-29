@@ -255,3 +255,33 @@ Ind_FuelStation_Sign_ep1.p3d added fire-geometry - using DZ pentration-matatrial
 
 changes in smd_sao > buildings > misc
 zavora_2.p3d REMOVED!
+Sakhal-Fishes" added
+changes in smd_roads
+15 path road models added
+
+changes in smd_sao > buildings
+smd_bouda1.p3d fixed wrong materialpath
+
+changes in smd_sao > buildings > ruins
+budova1_ruins.p3d added
+budova2_ruins.p3d added
+budova3_ruins.p3d added
+budova4_in_ruins.p3d added
+budova4_ruins.p3d added
+budova5_ruins.p3d added
+
+changes in smd_sao > signs
+all 337 signs converted to P3DM and updated for DZ fully
+
+!!! removed folder skybox from smd_sao 
+changes in smd_sao > buildings
+smd_dum_mesto_in.p3d added oven uhli
+smd_sara_domek_zluty.p3p added doorgrip and fireplace 2t2
+smd_house_y_open.p3d added fireplace 2t2
+
+changes in sahrani_scripts
+buildings added to fireplace.c
+
+changed the Village Mercalilli
+cenged the Area Cabo Base Militar and Selva Base Militar
+
