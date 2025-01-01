@@ -285,3 +285,17 @@ buildings added to fireplace.c
 changed the Village Mercalilli
 cenged the Area Cabo Base Militar and Selva Base Militar
 
+Changes in smd_sahrani_rocks
+stone3a.p3d replaced old surface (kameny.paa) with DZ stone_ext.paa (roadway-lod)
+stone3x.p3d replaced old surface (kameny.paa) with DZ stone_ext.paa (roadway-lod)
+stone4_invert.p3d replaced old surface (kameny.paa) with DZ stone_ext.paa (roadway-lod)
+stone4a.p3d replaced old surface (kameny.paa) with DZ stone_ext.paa (roadway-lod)
+stone4x.p3d replaced old surface (kameny.paa) with DZ stone_ext.paa (roadway-lod)
+
+Changes in smd_sao > misc > data
+betonovy_blok.rvmat ...texture linked to DZ (outsourced)
+
+Changes in smd_sao > misc
+datsun01T.p3d replaced old surface (plechaprolis.paa) with DZ metal_thick_ext.paa (roadway-lod)
+datsun02T.p3d replaced old surface (plechaprolis.paa) with DZ metal_thick_ext.paa (roadway-lod)
+hiluxT.p3d replaced old surface (plechaprolis.paa) with DZ metal_thick_ext.paa (roadway-lod)
