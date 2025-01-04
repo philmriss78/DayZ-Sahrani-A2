@@ -299,3 +299,11 @@ Changes in smd_sao > misc
 datsun01T.p3d replaced old surface (plechaprolis.paa) with DZ metal_thick_ext.paa (roadway-lod)
 datsun02T.p3d replaced old surface (plechaprolis.paa) with DZ metal_thick_ext.paa (roadway-lod)
 hiluxT.p3d replaced old surface (plechaprolis.paa) with DZ metal_thick_ext.paa (roadway-lod)
+
+Changes in smd_sao > buildings
+smd_budova3_open.p3d replaced oven uhli model
+smd_garaz_open.p3d added (3doors + proxies)
+smd_sara_zluty_statek_in.p3d proxymodel replaced with own version of workbench_dz.p3d
+
+Changes in smd_sao > buildings > furniture
+workbench_dz.p3d added (p3dm version)
