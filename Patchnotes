@@ -307,3 +307,4 @@ smd_sara_zluty_statek_in.p3d proxymodel replaced with own version of workbench_d
 
 Changes in smd_sao > buildings > furniture
 workbench_dz.p3d added (p3dm version)
+Unnecessary P3D removed from Arsteinen and integrated into Sahrani_Assets
