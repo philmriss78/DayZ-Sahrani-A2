@@ -331,3 +331,20 @@ Land_smd_sara_domek_ruina
 Land_smd_sara_domek_zluty
 Land_smd_stanice
 Land_smd_dum_olez_istan2_open
+
+Changes in smd_sao > buildings
+smd_Panelak.p3d new proxies
+
+Changes in missionfile > mapGroup
+Land_smd_army_hut_int
+Land_smd_dum_mesto2 (point fix)
+Land_smd_Panelak
+
+Changes in smd_sahrani_veg
+banana_2.p3d reworked (useraction/envsound/plantwind)
+banana_3.p3d reworked (useraction/envsound/plantwind)
+banana_4.p3d reworked (useraction/envsound/plantwind)
+les_buk.p3d reworked (experimental)
+oliva.p3d reworked (useraction/envsound)
+
+!!! complete overhaul and cleanup
