@@ -308,3 +308,25 @@ smd_sara_zluty_statek_in.p3d proxymodel replaced with own version of workbench_d
 Changes in smd_sao > buildings > furniture
 workbench_dz.p3d added (p3dm version)
 Unnecessary P3D removed from Arsteinen and integrated into Sahrani_Assets
+
+
+Changes in smd_sao > buildings
+smd_dum_mesto2.p3d added oven uhli / lod 7+10 fixed / proxies changed + lod sorting / mapproto changed
+
+Changes in smd_ss
+smd_dum_mesto2.p3d added to fireplaces
+
+Changes in missionfile > mapGroup
+Land_smd_army_hut2_int
+Land_smd_army_hut3_long_int
+Land_smd_benzina_schnell_open
+Land_smd_dum_m2
+Land_smd_dum_mesto2
+Land_smd_dumruina_mini
+Land_smd_garaz_mala_open
+Land_smd_hut01
+Land_smd_majak
+Land_smd_majak2
+Land_smd_sara_domek_ruina
+Land_smd_sara_domek_zluty
+Land_smd_stanice
