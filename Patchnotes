@@ -354,4 +354,10 @@ tree > oliva.p3d (useraction/envsound/plantwind)
 bush > dd_bush01.p3d  added (useraction/envsound/plantwind)
 bush > dd_bush02.p3d added (useraction/envsound/plantwind)
 
+Changes in smd_ss
+DynamicMusicPlayer setup finished > different location_static_priority-sets
+cities_south/cities_north soundsets
+airfield/military soundsets
+bunker/special soundsets
+
 Added Teleporter and Script
