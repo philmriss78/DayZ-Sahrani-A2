@@ -361,3 +361,48 @@ airfield/military soundsets
 bunker/special soundsets
 
 Added Teleporter and Script
+
+Changes in smd_sao > buildings
+Barracks2_desert.p3d removed!
+mil_barracks_round_desert.p3d reworked new model (P3DM)
+mil_barracks5_desert.p3d fixed texturepath in material
+mil_tent_big1_1_desert.p3d reworked new model (P3DM)
+mil_tent_big1_2_desert.p3d reworked new model (P3DM)
+mil_tent_big1_3_desert.p3d reworked new model (P3DM)
+mil_tent_big1_4_desert.p3d reworked new model (P3DM)
+mil_tent_big1_5_desert.p3d reworked new model (P3DM)
+mil_tent_big1_desert.p3d reworked new model (P3DM)
+mil_tent_big2_1_desert.p3d reworked new model (P3DM)
+mil_tent_big2_2_desert.p3d reworked new model (P3DM)
+mil_tent_big2_3_desert.p3d reworked new model (P3DM)
+mil_tent_big2_4_desert.p3d reworked new model (P3DM)
+mil_tent_big2_5_desert.p3d reworked new model (P3DM)
+mil_tent_big2_desert.p3d reworked new model (P3DM)
+mil_tent_big3_desert.p3d reworked new model (P3DM)
+mil_tent_big4_desert.p3d reworked new model (P3DM)
+smd_army_hut_int.p3d added proxies/mapGroup adjusted
+smd_budova3_open.p3d replaced oven uhli model with more detailed version
+smd_dum_mesto2.p3d added oven uhli
+smd_dum_mesto_in.p3d added proxies + chimney/oven/mapGroup
+smd_garaz_mala_open.p3d reworked door-model
+smd_garaz_open.p3d added - proxies/mapGroup
+smd_house_y_open.p3d reworked chimney-geoLOD
+smd_Panelak.p3d added proxies/MapGroup
+smd_sara_domek_hospoda.p3d added proxies - texture changes
+smd_sara_domek_kovarna.p3d replaced with new model/proxies/oven/mapGroup
+smd_sara_zluty_statek_in.p3d  replaced oven uhli model with more detailed version
+
+Changes in smd_sao > buildings > proxy
+tent_big1_desert.p3d reworked new model (P3DM)
+tent_big2_desert.p3d reworked new model (P3DM)
+
+Changes in smd_ss
+smd_dum_mesto2.p3d added to fireplace.c
+smd_sara_domek_kovarna.p3d added to fireplace.c
+
+Changes in smd_sao > buildings > sounds
+unused soundfiles removed!
+
+! reworked door-damagezones in smd_sao > buildings > config.cpp (Bearbeitet)
+
+
