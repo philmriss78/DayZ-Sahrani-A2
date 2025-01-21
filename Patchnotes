@@ -405,4 +405,20 @@ unused soundfiles removed!
 
 ! reworked door-damagezones in smd_sao > buildings > config.cpp (Bearbeitet)
 
+Changes in smd_sao > misc
+wreck_s1023_ambulance.p3d replaced with P3DM
 
+Changes in smd_sao > buildings
+dum_istan3_hromada.p3d removed not used!
+mil_atc_small_desert.p3d replaced with P3DM
+smd_bouda_plech_open.p3d doors-inside-textures replaced
+smd_dum_m2.p3d added lekarnicka as proxy
+smd_dum_olez_istan1_open.p3d removed glass in LOD and FireGeo/fixed a window
+smd_dum_olez_istan2_maly2.p3d added window-frames lowerfloor
+smd_Panelak2.p3d replaced with P3DM/surface-textures replaced
+smd_Panelak3.p3d replaced with P3DM/surface-textures replaced
+smd_ss_hangar_forest.p3d reworked model to fix textures not probably loading in
+smd_ss_hangar_desert.p3d reworked model to fix textures not probably loading in/doors textures fixed
+village_healthcare_desert.p3d replaced with P3DM
+
+all building proxy LOD's reworked to loading in at correct distance by renderer (client fps boost)
