@@ -422,3 +422,28 @@ smd_ss_hangar_desert.p3d reworked model to fix textures not probably loading in/
 village_healthcare_desert.p3d replaced with P3DM
 
 all building proxy LOD's reworked to loading in at correct distance by renderer (client fps boost)
+
+
+pletivo_slope.p3d added plot-model
+
+Changes in smd_sao > buildings
+mil_atc_small_desert.p3d fixed door3 in config.cfg/removed path-LOD
+smd_budova3_open.p3d added missing fundation to LOD1
+smd_garaz_mala.p3d added MLOD (not used, could be removed!)
+smd_hlaska reworked LOD's, ladder-function added
+smd_vysilac_FM.p3d added redlightblink
+smd_vysilac_FM2.p3d added redlightblink
+
+removed, not used anymore
+diera_1.p3d
+diera_2.p3d
+diera_4.p3d
+diera_6.p3d
+diera_7.p3d
+diera_9.p3d
+diera_10.p3d
+diera_11.p3d
+kopa_1.p3d
+kopa_2.p3d
+kopa_3.p3d
+kopa_4r.p3d
