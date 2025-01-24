@@ -447,3 +447,7 @@ kopa_1.p3d
 kopa_2.p3d
 kopa_3.p3d
 kopa_4r.p3d
+
+Changes in smd_sao > buildings
+smd_garaz_s_tankem.p3d proxy-adjustment/mapGroupProto reworked
+smd_watertower1.p3d overhaul GeoLOD's/proper ladder-function added/RedLightBlink added/mapGroupProto reworked
