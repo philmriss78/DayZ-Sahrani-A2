@@ -462,3 +462,10 @@ changed MapGroupproto Stanek1 / Stanek1b / Stanek2 / Stanek2b / Stanek3 / Satane
 
 smd_dum_olez_istan2_open2.p3d reworked LOD's/windows added
 smd_statek_kulna.p3d reworked LOD's/windows added
+
+changed Startgear @ init.c
+
+Vanilla T-shirt and breeches set to 0 in the types. replaced by retextured items
+added "Hawaii_Shirt_1", "Hawaii_Shirt_2", "Hawaii_Shirt_3", "Hawaii_Shirt_4", "Hawaii_Shirt_5", "MrBanana", "Cowboy_Shirt"
+added "Hawaii_Breeches_1", "Hawaii_Breeches_2", "Hawaii_Breeches_3", "Hawaii_Breeches_4", "Hawaii_Breeches_5"
+
