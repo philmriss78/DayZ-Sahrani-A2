@@ -469,3 +469,8 @@ Vanilla T-shirt and breeches set to 0 in the types. replaced by retextured items
 added "Hawaii_Shirt_1", "Hawaii_Shirt_2", "Hawaii_Shirt_3", "Hawaii_Shirt_4", "Hawaii_Shirt_5", "MrBanana", "Cowboy_Shirt"
 added "Hawaii_Breeches_1", "Hawaii_Breeches_2", "Hawaii_Breeches_3", "Hawaii_Breeches_4", "Hawaii_Breeches_5"
 
+Changes in smd_sao > buildings
+smd_dum_olez_istan1_open.p3d overhaul all LOD's/added proxies/added fireplace/created mapGroupProto
+
+Changes in smd_ss
+smd_dum_olez_istan1_open.p3d added to fieplace.c
