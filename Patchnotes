@@ -474,3 +474,6 @@ smd_dum_olez_istan1_open.p3d overhaul all LOD's/added proxies/added fireplace/cr
 
 Changes in smd_ss
 smd_dum_olez_istan1_open.p3d added to fieplace.c
+
+Changes in smd_sao > buildings
+smd_garaz_s_tankem.p3d fixed GeoLOD missing mass on two components
