@@ -477,3 +477,13 @@ smd_dum_olez_istan1_open.p3d added to fieplace.c
 
 Changes in smd_sao > buildings
 smd_garaz_s_tankem.p3d fixed GeoLOD missing mass on two components
+
+
+Anderungen 05.02.2025:
+
+in the areflags contaminated zone in Cabo Miltäry removed and set back to T4 
+
+T2 zone extended to Paraiso and Paraiso Airfield
+
+we went back to DayZ underground system in the bunker
+
