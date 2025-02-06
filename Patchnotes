@@ -485,5 +485,11 @@ in the areflags contaminated zone in Cabo Miltäry removed and set back to T4
 
 T2 zone extended to Paraiso and Paraiso Airfield
 
+Changes in smd_sahrani_scripts (smd_ss)
+
+removed terik_darkniss stuff
+added viewdistance-cap to missionGameplay.c
+added item map_sahrani (layout colors needs to be adjusted)
+
 we went back to DayZ underground system in the bunker
 
