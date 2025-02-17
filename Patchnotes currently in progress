@@ -3,3 +3,14 @@ Changed Terrain Builder
 - changed the place MedicTent Paraiso Airfield
 - respawnarea / TPPoints have to be reset
 - added ProtectorKeyCase
+
+Changes in smd_sao > buildings
+-smd_fuelstation_army.p3d reworked all LOD's/Geo/View/Fire/Material
+-smd_fuelstation_civil.p3d reworked all LOD's/Geo/View/Fire/Material
+-smd_dum01.p3d proto-test/added normal-texture and material
+-smd_dum_istan3_pumpa.p3d proto-test
+
+Changes in smd_sao > buildings > misc
+-DD_pletivo_sl.p3d changed GeoLOD should fix players not climpover it fully
+-DD_pletivo_dira.p3d changed GeoLOD should fix players not climpover it fully
+-DD_pletivo.p3d changed GeoLOD should fix players not climpover it fully
