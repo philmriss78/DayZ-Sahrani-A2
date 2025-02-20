@@ -9,6 +9,12 @@ Changes in smd_sao > buildings
 - smd_fuelstation_civil.p3d reworked all LOD's/Geo/View/Fire/Material
 - smd_dum01.p3d proto-test/added normal-texture and material
 - smd_dum_istan3_pumpa.p3d proto-test
+- smd_garaz_bez_tanku.p3d removed (not used)
+- smd_garaz_mala.p3d removed (not used)
+- benzina_schnell_feed.p3d is hidden now (map)
+- Ind_FuelStation_Feed_ep1.p3d  is hidden now (map)
+- smd_dum01.p3d added as medical building/new LOD's/added texture+material/proxies/envSound/created mapGroupProto
+- smd_bouda_plech_open.p3d changed mapGroupProto
 
 Changes in smd_sao > buildings > misc
 - DD_pletivo_sl.p3d changed GeoLOD should fix players not climpover it fully
