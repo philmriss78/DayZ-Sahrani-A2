@@ -3,6 +3,7 @@ Changes Terrain Builder
 - changed the place MedicTent Paraiso Airfield
 - respawnarea / TPPoints have to be reset
 - added ProtectorKeyCase
+- UndergroundPanel deleted in Bagango
 
 Changes in smd_sao > buildings
 - smd_fuelstation_army.p3d reworked all LOD's/Geo/View/Fire/Material
