@@ -29,3 +29,6 @@ Changes in Sahrani Assets
 - Military box BC door problem fixed
 - Protectorcase added
 - Lorebook Texturefix
+
+Changes in MissionFiles / PBD`s
+- Ford Bronco / GMC removed, unnecessary vehicles and parts removed from the Types / Events / Spawnabletypes
