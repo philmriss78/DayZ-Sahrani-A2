@@ -15,12 +15,35 @@ Changes in smd_sao > buildings
 - benzina_schnell_feed.p3d is hidden now (map)
 - Ind_FuelStation_Feed_ep1.p3d  is hidden now (map)
 - smd_dum01.p3d added as medical building/new LOD's/added texture+material/proxies/envSound/created mapGroupProto
-- smd_bouda_plech_open.p3d changed mapGroupProto
+-  smd_bouda_plech_open.p3d changed mapGroupProto
+- smd_army_hut_storrage.p3d added envSound wind
+- smd_bouda_plech_open.p3d added envSound wind/fixed texture clipping in LOD2
+- smd_bouda1.p3d added envSound rain/wind
+- smd_bouda2_vnitrek.p3d added envSound rain
+- smd_dum_mesto_in.p3d added GeoLOD (top ceiling) / fixed some proxies counted as component
+- smd_dum_mesto2.p3d fixed some proxies counted as component
+- smd_dum_mesto3.p3d fixed texure-material not showing up in LOD 2+3
+- smd_house_y_open.p3d fixed LOD order by faces
+- smd_hospoda_mesto.p3d adjusted memorypoints twindoors / fixed some proxies counted as component
+- smd_hruzdum.p3d added envSound rain
+- smd_hut_old02.p3d added envSound rain
+- smd_majak.p3d added envSound rain/wind
+- smd_majak2.p3d added envSound rain/wind
+- smd_majak_v_celku.p3d added envSound rain/wind
+- smd_panelak.p3d fixed GeoLOD for NavMesh
+- smd_sara_domek_sedy.p3d fixed convex faces in GeoLOD's / fixed some proxies counted as component
+- statek_brana_open.p3d adjusted GeoLOD doors
+- smd_vysilac_FM.p3d added envSound rain/ladder
+- smd_vysilac_FM2.p3d added envSound rain/ladder
+- smd_watertower1.p3d added envSound rain/wind/ladder
+- smd_zastavka_jih.p3d added envSound wind
+- smd_zastavka_sever.p3d added envSound wind
 
 Changes in smd_sao > buildings > misc
 - DD_pletivo_sl.p3d changed GeoLOD should fix players not climpover it fully
 - DD_pletivo_dira.p3d changed GeoLOD should fix players not climpover it fully
 - DD_pletivo.p3d changed GeoLOD should fix players not climpover it fully
+- lavicka_3.p3d removed entry class=house
 
 
 Changes in Sahrani Assets
@@ -29,6 +52,18 @@ Changes in Sahrani Assets
 - Military box BC door problem fixed
 - Protectorcase added
 - Lorebook Texturefix
+
+Changes in smd_sao > misc
+- brana.p3d reworked LOD's and material
+- floormop.p3d reworked LOD's and material
+- ClutterCutterSmall.p3d added MLOD
+- mrtvola_army1 removed entry class=thing
+- mrtvola_army2 removed entry class=thing
+- mrtvola_army3 removed entry class=thing
+- wreck_lada_lm.p3d added (check config.cfg for more)
+- wreck_uaz_colored.p3d added (check config.cfg for more)
+- wreck_ural_un.p3d added (check config.cfg for more)
+
 
 Changes in MissionFiles / PBD`s
 - Ford Bronco / GMC removed, unnecessary vehicles and parts removed from the Types / Events / Spawnabletypes
