@@ -38,12 +38,18 @@ Changes in smd_sao > buildings
 - smd_watertower1.p3d added envSound rain/wind/ladder
 - smd_zastavka_jih.p3d added envSound wind
 - smd_zastavka_sever.p3d added envSound wind
+- smd_dum_istan3_pumpa.p3d reworked doors/texture/GeoLOD's
+- smd_garaz_s_tankem.p3d reworked GeoLOD's/mapGroupProto
+- smd_majak.p3d changes in model.cfg
+- smd_majak2.p3d changes in model.cfg
+
 
 Changes in smd_sao > buildings > misc
 - DD_pletivo_sl.p3d changed GeoLOD should fix players not climpover it fully
 - DD_pletivo_dira.p3d changed GeoLOD should fix players not climpover it fully
 - DD_pletivo.p3d changed GeoLOD should fix players not climpover it fully
 - lavicka_3.p3d removed entry class=house
+- wreckmodel setup
 
 
 Changes in Sahrani Assets
@@ -67,3 +73,10 @@ Changes in smd_sao > misc
 
 Changes in MissionFiles / PBD`s
 - Ford Bronco / GMC removed, unnecessary vehicles and parts removed from the Types / Events / Spawnabletypes
+- Changes in missionfile > mapGroupProto + types
+- "Land_wreck_lada_lm","Land_wreck_lada_lm_DE",
+- "Land_wreck_datsun01T","StaticObj_wreck_datsun01T_DE",
+- "Land_wreck_datsun02T","StaticObj_wreck_datsun02T_DE",
+- "Land_wreck_hiluxT","StaticObj_wreck_hiluxT_DE",
+- "Land_Wreck_Uaz_colored","StaticObj_Wreck_Uaz_colored_DE",
+- "Land_Wreck_Ural_UN","StaticObj_Wreck_Ural_UN_DE",
