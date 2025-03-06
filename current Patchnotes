@@ -1,0 +1,23 @@
+Changes in smd_sao > buildings
+
+ -smd_ZalChata.p3d opened /1 door/texture+material added/proxies/mapGroupProto
+ -Changes in smd_sao > buildings
+ -smd_stanice.p3d changed material pod / added envSound
+ -smd_statek_kulna.p3d added envSound
+
+Changes in smd_sao > buildings > furniture
+
+ -basin_a.p3d changed textures and material
+ -light_kitchen_03.p3d changed textures and material
+ -sink.p3d changed textures and material
+
+
+Missionfiles
+
+
+-delete the S1203
+
+
+
+
+
