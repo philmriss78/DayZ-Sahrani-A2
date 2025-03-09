@@ -4,12 +4,18 @@ Changes in smd_sao > buildings
  -Changes in smd_sao > buildings
  -smd_stanice.p3d changed material pod / added envSound
  -smd_statek_kulna.p3d added envSound
+ -smd_sara_domek_kovarna.p3d texturefix windowbars
+ -smd_sara_domek_ruina.p3d texturefix windowbars/proxy-LOD optimized
 
 Changes in smd_sao > buildings > furniture
 
  -basin_a.p3d changed textures and material
  -light_kitchen_03.p3d changed textures and material
  -sink.p3d changed textures and material
+
+Changes in smd_sao > buildings > misc
+
+-zavora_new.p3d added damagezones to config.cfg (can be cracked when locked now)
 
 
 Missionfiles
