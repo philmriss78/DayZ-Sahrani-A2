@@ -6,6 +6,9 @@ Changes in smd_sao > buildings
  -smd_statek_kulna.p3d added envSound
  -smd_sara_domek_kovarna.p3d texturefix windowbars
  -smd_sara_domek_ruina.p3d texturefix windowbars/proxy-LOD optimized
+ -smd_statek_hl_bud.p3d opened /3 door/proxies/oven uhli/mapGroupProto
+ -statek_brana_open.p3d reworked /all LOD's (should fix useraction-triggers)
+ -smd_Panelak2.p3d fixed proxy-path for furniture kitchen_table_a.p3d
 
 Changes in smd_sao > buildings > furniture
 
@@ -15,12 +18,34 @@ Changes in smd_sao > buildings > furniture
 
 Changes in smd_sao > buildings > misc
 
--zavora_new.p3d added damagezones to config.cfg (can be cracked when locked now)
+ -zavora_new.p3d added damagezones to config.cfg (can be cracked when locked now)
+ -datsun01T.p3d fixed issue not spawning loot as intended (house, config class missing) / mapGroupProto changed
+ -datsun02T.p3d fixed issue not spawning loot as intended (house, config class missing) / mapGroupProto changed
+ -hiluxT.p3d fixed issue not spawning loot as intended (house, class not found) / mapGroupProto changed
 
+
+Changes in smd_sao > buildings > ruins
+ -AFbarabizna.p3d fixed issue not spawning loot as intended (house, config class missing) / mapGroupProto changed
+ -AFDum_mesto2.p3d fixed issue not spawning loot as intended (house, config class missing) / mapGroupProto changed
+ -AFDum_mesto2L.p3d fixed issue not spawning loot as intended (house, config class missing) / mapGroupProto changed
+ -AFDum_mesto3.p3d fixed issue not spawning loot as intended (house, config class missing) / mapGroupProto changed
+ -AFHospoda_mesto.p3d fixed issue not spawning loot as intended (house, config class missing) / mapGroupProto changed
+
+Changes in smd_ss
+ -smd_statek_hl_bud.p3d added to fireplace.c
+
+
+Changes in Sahrani_Assets
+ -temp-fix for teleporter-script not compiling in runtime - needs to be fixed correctly!
+
+Changes in smd_sao > buildings > castle
+ -smd_helfenburk.p3d reworked Geo's/material/penetration
+ -smd_helfenburk_brana.p3d  reworked material/penetration
+ -smd_helfenburk_budova2.p3d reworked material/penetration/ladder added
+ -smd_helfenburk_cimburi.p3d reworked material/penetration
+ -smd_helfenburk_zed.p3d reworked material/penetration
 
 Missionfiles
-
-
 -delete the S1203
 -delete all Landrover / Vehicle need a Update
 -added new Zombie Spawnpoints Rahmadi and Antigua
