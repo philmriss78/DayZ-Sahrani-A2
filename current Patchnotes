@@ -33,10 +33,13 @@ Changes in smd_sao > buildings > ruins
 
 Changes in smd_ss
  -smd_statek_hl_bud.p3d added to fireplace.c
+ -small fixed client Crash MainMenü
 
 
 Changes in Sahrani_Assets
  -temp-fix for teleporter-script not compiling in runtime - needs to be fixed correctly!
+ -pyramide.p3d full reworked model-uv/Geo/View/Fire/Roadway/new textures+materials
+ -wall_p.p3d added new textures+materials
 
 Changes in smd_sao > buildings > castle
  -smd_helfenburk.p3d reworked Geo's/material/penetration
@@ -54,7 +57,7 @@ Missionfiles
  -added new Loadingsscreens
 
 Sahrani Assets
- -added Buoy with animated Red Light
+ -added Buoy with animated Red Light and placed
 
 
 
