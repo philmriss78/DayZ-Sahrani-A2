@@ -9,6 +9,11 @@ Changes in smd_sao > buildings
  -smd_statek_hl_bud.p3d opened /3 door/proxies/oven uhli/mapGroupProto
  -statek_brana_open.p3d reworked /all LOD's (should fix useraction-triggers)
  -smd_Panelak2.p3d fixed proxy-path for furniture kitchen_table_a.p3d
+ -smd_cihlovej_dum_mini.p3d added glass_damaged texures
+ -smd_statek_kulna.p3d added glass_damaged texures / added proxy light_bathroom
+ -smd_dum_olez_istan2_open2.p3d added glass_damaged texures
+ -smd_bouda1.p3d changed texture (walls intern)
+ -smd_sara_domek_hospoda.p3d fixed wierd bathroom-doorframe-textures
 
 Changes in smd_sao > buildings > furniture
 
@@ -53,6 +58,22 @@ Missionfiles
 -delete all Landrover / Vehicle need a Update
 -added new Zombie Spawnpoints Rahmadi and Antigua
 -added ContainerEvent ( Key @Mumien and M79/DrumMags/M4A1/Plastic_Explosive/M14/SV-98 as loot in the container)
+-added AuriculariaMushroom to TrajectoryDeciduous
+-added CraterellusMushroom to TrajectoryDeciduous
+-set TrajectoryApple to nominal 150
+-set TrajectoryPear to nominal 150
+-set TrajectoryPlum to nominal 150
+-set TrajectoryConiferous to nominal 150
+-set TrajectoryDeciduous to nominal 150
+-set TrajectoryHumus to nominal 150
+
+changes in mapclusterproto.xml
+-added PiceaAbies_2s > TrajectoryConiferous
+-added PiceaAbies_3s > TrajectoryConiferous
+-added PinusSylvestris_3s_summer > TrajectoryDeciduous
+-added HaybaleDecayed > TrajectoryHumus
+
+cluster-type map groups export required (~90k spawnlocations added)
 
  -added new Loadingsscreens
 
@@ -60,5 +81,26 @@ Sahrani Assets
  -added Buoy with animated Red Light and placed
 
 
+Changes in Sahrani_CE
+-added 937 AmbientHare (rabbit) spots
+-predator-spawns reworked ..AnimalWolf (rest,water,huntingground-routes) / AnimalBear (graze)
+-AmbientHen spawner added
+
+Changes in smd_sahrani_surfaces
+-sara_sandgrass replaced texture/new normals
+-sara_grassdirt replaced texture/new normals
+-sara_uwsand replaced texture/new normals
+-Sara_grass1_Clutter added GrassFlowersPurple_summer and Sara_GrassFlowersWhite_summer
+
+Changes in smd_sahrani_veg > tree
+-banana_2.p3d adjusted yield and harvest-timecycles to common DZ-standards
+-banana_3.p3d adjusted yield and harvest-timecycles to common DZ-standards
+-banana_4.p3d adjusted yield and harvest-timecycles to common DZ-standards
+-oliva.p3d adjusted yield and harvest-timecycles to common DZ-standards
+
+Changes in jungles > trees
+-t_ju_palm_coconut01.p3d adjusted yield and harvest-timecycles to common DZ-standards
+-t_ju_palm_coconut02.p3d adjusted yield and harvest-timecycles to common DZ-standards
+-t_ju_palm_coconut03.p3d adjusted yield and harvest-timecycles to common DZ-standards
 
 
