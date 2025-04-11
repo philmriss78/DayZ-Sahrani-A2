@@ -14,7 +14,34 @@ Changes in smd_sao > buildings
  -smd_dum_olez_istan2_open2.p3d added glass_damaged texures
  -smd_bouda1.p3d changed texture (walls intern)
  -smd_sara_domek_hospoda.p3d fixed wierd bathroom-doorframe-textures
+ -fort_watchtower_ep1.p3d added
+ -smd_bouda1.p3d changed inner wall textures
+ -smd_cihlovej_dum_mini.p3d added broken glass
+ -smd_dumruina_mini.p3d added broken glass
+ -smd_dum_olez_istan2_open2.p3d added windowbars/broken glass
+ -smd_sara_domek_hospoda.p3d added broken glass/proxies/mapGroupProto
+ -smd_sara_domek_podhradi_1.p3d fixed broken uv's/changed inner wall textures
+ -smd_stanice.p3d fixed broken uv's
+ -smd_statek_kulna.p3d added broken glass
+ -smd_ZalChata.p3d replaced floortexture/material adjusted
 
+Changes in smd_sahrani_rocks
+ -rock_apart1_N.p3d
+ -rock_apart1_S.p3d added
+ -rock_apart2_N.p3d added
+ -rock_apart2_S.p3d added
+ -stone1_N.p3d added
+ -stone1_S.p3d added
+ -stone2_N.p3d added
+ -stone2_S.p3d added
+ -stone3_N.p3d added
+ -stone3_S.p3d added
+ -stone4_N.p3d added
+ -stone4_S.p3d added
+ -stone5_N.p3d added
+ -stone5_S.p3d added
+
+added to sahrani_scripts > nature
 Changes in smd_sao > buildings > furniture
 
  -basin_a.p3d changed textures and material
@@ -27,6 +54,9 @@ Changes in smd_sao > buildings > misc
  -datsun01T.p3d fixed issue not spawning loot as intended (house, config class missing) / mapGroupProto changed
  -datsun02T.p3d fixed issue not spawning loot as intended (house, config class missing) / mapGroupProto changed
  -hiluxT.p3d fixed issue not spawning loot as intended (house, class not found) / mapGroupProto changed
+ -zidka_klek.p3d replaced old material in Roadway and GeoFire
+ -zidka_stani.p3d replaced old material in Roadway and GeoFire
+
 
 
 Changes in smd_sao > buildings > ruins
