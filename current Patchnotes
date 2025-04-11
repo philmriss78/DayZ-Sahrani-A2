@@ -62,10 +62,44 @@ Missionfiles
 -added CraterellusMushroom to TrajectoryDeciduous
 -set TrajectoryApple to nominal 150
 -set TrajectoryPear to nominal 150
--set TrajectoryPlum to nominal 150
+-set TrajectoryPlum to nominal 150 
 -set TrajectoryConiferous to nominal 150
 -set TrajectoryDeciduous to nominal 150
 -set TrajectoryHumus to nominal 150
+-changes in db/events.xml
+-added AmanitaMushroom to TrajectoryAmanita (new)
+-added PsilocybeMushroom to TrajectoryPsilocybe (new)
+-removed CraterellusMushroom from TrajectoryDeciduous
+-set TrajectorySambucusNigra to nominal 150
+
+changes in db/events.xml
+
+ -AmbientFox changed values
+ -AmbientHen changed values
+ -AmbientHare changed values
+ -AnimalBear changed values
+ -AnimalCow changed values
+ -AnimalDeer changed values
+ -AnimalGoat changed values
+ -AnimalPig changed values
+ -AnimalRoeDeer changed values
+ -AnimalSheep changed values
+ -AnimalWildBoar changed values
+ -AnimalWolf changed values
+
+changes CE- sahrani
+-fixed old/wrong animal spawns
+-added several spawns for all types of animals
+-locationnames added to animal_territories
+
+changes in mapclusterproto.xml
+ -changed PiceaAbies_3s > TrajectoryAmanita (new)
+ -added BetulaPendulaE_3f_summer > TrajectoryPsilocybe (new)
+ -added sambucusnigra_1s_summer > TrajectorySambucusNigra (new)
+
+cluster-type map groups export required
+(entity found:643105, entity valid:106818)
+
 
 changes in mapclusterproto.xml
 -added PiceaAbies_2s > TrajectoryConiferous
