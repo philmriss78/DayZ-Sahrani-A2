@@ -167,4 +167,8 @@ Changes in jungles > trees
 -t_ju_palm_coconut02.p3d adjusted yield and harvest-timecycles to common DZ-standards
 -t_ju_palm_coconut03.p3d adjusted yield and harvest-timecycles to common DZ-standards
 
+changed Terrainbuilder
 
+ - added Warheadstorage ( place for the NBC Clothing ) 
+ - added a Playerbase
+ - added a Nwe Bunker Area
