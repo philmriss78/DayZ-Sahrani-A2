@@ -1,0 +1,24 @@
+Changes in smd_sao > buildings
+
+smd_nabrezi.p3d changes in GeoFire
+smd_nabrezi_najezd.p3d fixed broken original MLOD/changes in GeoFire
+smd_army_hut_int.p3d changed memorypoints for rainsound-roof/material changed roof/bricks
+smd_army_hut2_int.p3d changed memorypoints for rainsound-roof/material changed roof/bricks
+smd_army_hut3_long_int.p3d changed memorypoints for rainsound-roof/material changed roof
+smd_dum_olez_istan2_open2.p3d changed memorypoints for rainsound-roof
+smd_bouda_plech_open.p3d fixed broken face foundation/changed material
+smd_cihlovej_dum_in.p3d added broken glass
+
+Changes in Sahrani_Food
+
+Coconut's can be opened on Rocks
+error in german translation fixedin stringtable.csv+
+localized
+
+Added smd_soundconfig
+adds different soundsets from EnochEnv to Sahrani
+
+
+Changes in Terrainbuilder
+
+changed a location in the Bunkerara ( JMC )
