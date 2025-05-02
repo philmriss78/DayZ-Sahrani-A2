@@ -8,12 +8,23 @@ smd_army_hut3_long_int.p3d changed memorypoints for rainsound-roof/material chan
 smd_dum_olez_istan2_open2.p3d changed memorypoints for rainsound-roof
 smd_bouda_plech_open.p3d fixed broken face foundation/changed material
 smd_cihlovej_dum_in.p3d added broken glass
+smd_benzina_schnell_open.p3d changed memorypoints for rain
+smd_dum_istan3_hromada.p3d changes in ResLOD/added memorypoints for rain/wind
+smd_house_y_open.p3d changed memorypoints for rain
+smd_hut01.p3d changed memorypoints for rain
+smd_hut02.p3d changed memorypoints for rain
+smd_hut03.p3d changed memorypoints for rain
+smd_hut04.p3d changed memorypoints for rain
+smd_sara_domek_podhradi_1.p3d added memorypoints woodsqueak
+smd_sara_zluty_statek_in.p3d changed memorypoints for rain/wind
 
 Changes in Sahrani_Food
 
 Coconut's can be opened on Rocks
 error in german translation fixedin stringtable.csv+
 localized
+coconut.p3d reworked Geo/added memorypoints for itemhandling/added GeoFire + material
+added BananaChips
 
 Added smd_soundconfig
 adds different soundsets from EnochEnv to Sahrani
@@ -22,3 +33,17 @@ adds different soundsets from EnochEnv to Sahrani
 Changes in Terrainbuilder
 
 changed a location in the Bunkerara ( JMC )
+
+Changes in Sahrani_Assets
+
+wreck_merlin_hc.p3d reworked Geo/RoadWay
+
+Changes in smd_sahrani > world
+
+added EnvSound.hpp
+
+changed config.cfg for EnvSound
+
+changed MPMission
+
+added spawnpoint JMC
