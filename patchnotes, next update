@@ -17,6 +17,20 @@ smd_hut03.p3d changed memorypoints for rain
 smd_hut04.p3d changed memorypoints for rain
 smd_sara_domek_podhradi_1.p3d added memorypoints woodsqueak
 smd_sara_zluty_statek_in.p3d changed memorypoints for rain/wind
+smd_Panelak.p3d added ladder-function
+smd_bordel_zidka.p3d changed pac 2 paa texture / added material
+smd_ammostore2_open.p3d added proxies/mapGroupProto changed,
+smd_budova3_open.p3d moved proxy/mapGroupProto changed,
+smd_dum_istan3_hromada.p3d opened /17 door/proxies/mapGroupProto,
+smd_dum_istan2b.p3d opened /4 door/proxies/mapGroupProto,
+smd_fuelstation_army.p3d added ladder-function/roadway/mapGroupProto,
+smd_fuelstation_civil.p3d added ladder-function/roadway/mapGroupProto,
+smd_garaz_s_tankem.p3d moved proxy/mapGroupProto changed,
+smd_letistni_hala.p3d added ladder-function,
+smd_majak_podesta.p3d added material (nohq/smdi),
+smd_Panelak.p3d added proper ladder-function/changes in GeoView/Fire,
+smd_Panelak2 added ladder-function/mapGroupProto changed,
+
 
 Changes in Sahrani_Food
 
@@ -26,7 +40,9 @@ localized
 coconut.p3d reworked Geo/added memorypoints for itemhandling/added GeoFire + material
 added BananaChips
 
+
 Added smd_soundconfig
+
 adds different soundsets from EnochEnv to Sahrani
 
 
@@ -34,16 +50,48 @@ Changes in Terrainbuilder
 
 changed a location in the Bunkerara ( JMC )
 
+
 Changes in Sahrani_Assets
 
 wreck_merlin_hc.p3d reworked Geo/RoadWay
+
 
 Changes in smd_sahrani > world
 
 added EnvSound.hpp
 
+
 changed config.cfg for EnvSound
 
 changed MPMission
 
+
 added spawnpoint JMC
+
+
+Changes in smd_sahrani_surface
+
+config.cfg - clutter-swLighting
+
+
+Changes in smd_sao > buildings > misc
+
+plot_zed_drevo1_branka.p3d added material for normals,
+plot_zed-drevo_sloupek.p3d added material for normals,
+plot_zed-drevo1.p3d added material for normals,
+plot_zed-drevo2.p3d added material for normals,
+plot_zed-drevo3.p3d added material for normals
+plot_ohrada.p3d added material (nohq/smdi),
+plot_ohrada_pruchozi.p3d added material (nohq/smdi),
+plot_ohrada_zlomena.p3d added material (nohq/smdi),
+zidka01.p3d added material,
+zidka02.p3d added material,
+zidka03p3d added material,
+zidka04.p3d added material
+plot_bambus.p3d  added material (nohq)
+
+
+Changes in Sahrani_Mission > 
+
+mapclusterproto.xml / fixed typo leads causing TrajectorApple not working as intentend
+
