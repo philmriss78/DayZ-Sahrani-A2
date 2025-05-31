@@ -30,6 +30,9 @@ smd_letistni_hala.p3d added ladder-function,
 smd_majak_podesta.p3d added material (nohq/smdi),
 smd_Panelak.p3d added proper ladder-function/changes in GeoView/Fire,
 smd_Panelak2 added ladder-function/mapGroupProto changed,
+smd_dum_olez_istan2_open2.p3d reworked material/textures,
+smd_dum_olez_istan2_maly2.p3d reworked material/textures + added missing windowsframes/glass,
+smd_dum_olez_istan2_maly_open.p3d finished /1 door/oven bila/proxies/mapGroupProto
 
 
 Changes in Sahrani_Food
@@ -39,6 +42,7 @@ error in german translation fixedin stringtable.csv+
 localized
 coconut.p3d reworked Geo/added memorypoints for itemhandling/added GeoFire + material
 added BananaChips
+localized coconut open-text for knifes etc..
 
 
 Added smd_soundconfig
@@ -94,4 +98,10 @@ plot_bambus.p3d  added material (nohq)
 Changes in Sahrani_Mission > 
 
 mapclusterproto.xml / fixed typo leads causing TrajectorApple not working as intentend
+mapClusterProto.xml cleaned and reorganized
+
+Changes in smd_sahrani_scripts
+
+
+smd_dum_olez_istan2_maly_open.p3d added to fireplace.c
 
