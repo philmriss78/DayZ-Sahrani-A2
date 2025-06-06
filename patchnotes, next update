@@ -33,6 +33,9 @@ smd_Panelak2 added ladder-function/mapGroupProto changed,
 smd_dum_olez_istan2_open2.p3d reworked material/textures,
 smd_dum_olez_istan2_maly2.p3d reworked material/textures + added missing windowsframes/glass,
 smd_dum_olez_istan2_maly_open.p3d finished /1 door/oven bila/proxies/mapGroupProto
+smd_dum_istan2b.p3d fixed door-action,
+smd_hut04.p3d fixed material (drevoleta <> drevoletaR)
+fluor_lamp.p3d changed textures/material (not glowing anymore)
 
 
 Changes in Sahrani_Food
@@ -93,15 +96,24 @@ zidka02.p3d added material,
 zidka03p3d added material,
 zidka04.p3d added material
 plot_bambus.p3d  added material (nohq)
+lampa-modells removed class streetlamp due lightsflickering (StaticObj)
 
 
 Changes in Sahrani_Mission > 
 
 mapclusterproto.xml / fixed typo leads causing TrajectorApple not working as intentend
 mapClusterProto.xml cleaned and reorganized
+Update 1.28 ready
 
 Changes in smd_sahrani_scripts
 
 
 smd_dum_olez_istan2_maly_open.p3d added to fireplace.c
+
+
+Changes in Bush/Tree
+
+note: bush_bliss dupes removed
+b_prunusSpinosa_1s_summer removed (same as b_caraganaArborescens_2s_summer)
+readded b_prunusSpinosa_1s_summer(krovi4) (11363)
 
