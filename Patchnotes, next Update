@@ -14,3 +14,10 @@ Sahrani Mission
 
 changed the Position for the Scintistbriefcase to the Isla del Zorra
 changed Undergroundtrigger to Darknesscript Main Bunker Area / NVG is working
+
+SAO > buildings
+  added kasna_new.p3d (misc_fountain dry),
+  added kasna_new_bez.p3d,
+  added kasna_sucha.p3d
+  opened smd_orlhot.p3d (14),
+  opened smd_dum_istan3.p3d (43)
