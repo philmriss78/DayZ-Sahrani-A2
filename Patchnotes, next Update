@@ -4,6 +4,7 @@ added Barrel Schnell & Firebarrel
 added Barrel Milk & Firebarrel
 added Coconutwater
 added Skelekton / thanks to Kubelo ( Banov Dev )
+added a NEW PunchedCard for a other Entrence
 ---------> TYPES!!!!!!!
 
 TerraniBuilder
@@ -21,3 +22,34 @@ SAO > buildings
   added kasna_sucha.p3d
   opened smd_orlhot.p3d (14),
   opened smd_dum_istan3.p3d (43)
+
+added kasna_new.p3d (misc_fountain dry),
+added kasna_new_bez.p3d,
+added kasna_sucha.p3d
+opened smd_orlhot.p3d (14),
+opened smd_dum_istan3.p3d (43)
+opened smd_dumruina.p3d (8)
+
+smd_bouda_plech_open.xml,
+smd_bouda3.xml,
+smd_dum_mesto3_istan.xml
+
+smd_deutshe.p3d - optimized ResLOD's,
+smd_dum_istan2.p3d - optimized ResLOD's/reworked windows/added sfx-mempoints,
+smd_dum_istan2b.p3d - optimized ResLOD's/reworked windows/added sfx-mempoints,
+smd_dum_istan3.p3d - optimized ResLOD's/reworked proxies/added sfx-mempoints/mapGroupProto updated!,
+smd_dum_mesto3_istan.p3d - reworked proxies/mapGroupProto  updated!,
+smd_dum_olez_istan2_open2.p3d - optimized ResLOD's/correct soundset for mempoints assigned,
+smd_sara_domek_kovarna.p3d - optimized ResLOD's/added glass,
+smd_sara_domek_ruina.p3d - optimized ResLOD's/added glass/fixed broken windowbars UV's,
+smd_statek_hl_bud.p3d - optimized ResLOD's/textures changed,
+smd_kostalik.p3d - fixed
+
+Sahrani_Rocks  UPDATED!
+added two stone_clutters,
+
+
+Sahrani_Surfaces  UPDATED!
+Sara_sand1_Clutter got some grass and rocks,
+Sara_cliffface2_Clutter added wheat2 and rocks
+
