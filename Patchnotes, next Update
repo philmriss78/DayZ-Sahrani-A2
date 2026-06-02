@@ -1,1 +1,58 @@
+Changes in SAO > buildings
+  smd_budova3_open.p3d - adjusted proxies / updated mapGroupProto!,
+  smd_dumruina.p3d - fixed glass-flickering,
+  smd_sara_domek_podhradi_1.p3d - reduced/optimized sectioncount/roadway-material,
+  Ind_Oil_Pump_EP1.p3d - created mapGroupProto!,
+  smd_bouda_plech_open.p3d - changed concrete-texture,
+  smd_house_y_open.p3d - fixed broken UV's/ updated ResLOD,
+  smd_dumruina.p3d fixed sound-mempoints,
+  smd_dum_istan2_04a.p3d - added proxies and mapGroupProto!,
+  smd_dulni_bs.p3d - updated roadway,
+  smd_dum_zboreny.p3d - updated roadway,
+  smd_budova3_open.p3d - changed roof-texture,
+  smd_kostel2.p3d - class changed to house (no clock),
+  smd_kostel3.p3d - class changed to house (no clock),
+  smd_dum02.p3d - reduced/optimized sectioncount,
+  smd_majak_v_celku.p3d - added door n ladder functions,
+  deutshe.p3d - added external stairs,
+  smd_dum_istan2_03a.p3d - added details,
+  smd_majak.p3d - updated roadway / added ladder to GeoFire,
+  smd_majak2.p3d - updated roadway / ladder added to GeoFire,
+  smd_sara_stodola.p3d -reworked model / updated mapGroupProto!,
+  smd_sara_stodola2.p3d -reworked model / updated mapGroupProto!,
+  smd_dum_m2.xml - updated mapGroupProto!,
+  smd_house_y_open.xml - updated mapGroupProto!,
+  smd_sara_domek_kovarna.xml - updated mapGroupProto!,
+  smd_sara_domek_ruina.xml - updated mapGroupProto!,
+  smd_sara_hasic_zbroj.xml - updated mapGroupProto!,
+  smd_dum_m2.p3d - reworked model / added external stairs / updated mapGroupProto!,
+  smd_dum_mesto2.p3d - updated roadway,
+  smd_sara_domek_kovarna.p3d - reduced/optimized sectioncount,
+  smd_sara_domek_ruina.p3d - reduced/optimized sectioncount,
+  smd_hlaska.p3d - updated roadway,
+  smd_orlhot.p3d - removed some sound-mempoints
+  smd_garaz_mala_open.p3d - changed concrete-texture / reduced/optimized sectioncount,
+  smd_garaz_open.p3d - changed concrete-texture / reduced/optimized sectioncount,
+  smd_statek_hl_bud.p3d - reworked  / updated mapGroupProto!,
+  smd_garaz_long.p3d added 6 doors,
+  smd_dum_istan2.p3d - reworked,
+  smd_dum_istan2b.p3d - reworked,
+  smd_dum02.p3d - added some details / reduced/optimized sectioncount
+  TwinDoor-Update in all models - fixes log-spam (ENTITY    (W): Door 'DoorsTwin1' is missing geometry components for selection 'doorsTwin1', check model+config)
+  smd_dumruina_mini.p3d - reworked / updated mapGroupProto!
+  smd_dum_zboreny.p3d added missing Geo's for proper lootpoints / added mapGroupProto
+  smd_cihlovej_dum_in.p3d added FireGeo for window frames,
+  smd_cihlovej_dum_mini.p3d added FireGeo for window frames,
+  smd_dum_olez_istan2_maly_open.p3d reworked window frames/Geo's,
+  smd_statek_kulna.p3d added FireGeo for window frames
+  smd_dum_olez_istan2_maly2.p3d reworked window frames/Geo's
+
+
+Changes in sahrani_surfaces
+  sara_grass1 replaced textures/rvmat,
+  config-clutter cleaned up
+
+Changes in Sahrani_scripts
+  updated all GetGame() calls to newer g_Game method, TODO for Gamelabs 
+
 
