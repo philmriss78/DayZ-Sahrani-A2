@@ -1,495 +1,56 @@
-noch zu Update 13.11.2024
-
-Import from Arma1 /  and restore 647885 objects
-
-placement of 5686 road elements Sahrani North Island
-placement of 5480 road elements Sahrani South Island  due to outgoing building material it may well be that some have not been completed, please          report this in    the Discord ⁠❌-sahrani-bugs
-
-CE integrated, fine tuning will follow Types, T - Zonen integrated Navmesh created 468 times ( Thanks DayZ Update 1.26 )
-
-Todo
-
-Humwee and Landrover attachments currently do not work via the spawnabletypes ( since 1.26 ) Bug is known > is fixed
-Zombies have no loot in the inventory since 1.26 ( are there any useful tips ) Spawnabletypes are there though > is fixed
-
-Revision of all old models / models exchanged with known DayZ models. Bugs in Models have been fixed. However, this process is still ongoing
-
-------------------------------------------------------------------------------------------------------------------------------------------------
-start 16.11.2024
-
-added Banovair Billboard and placed
-changed QR Billboard
-added Support Billboard and placed
-Changed Position Statek Kulna
-added Banov Air ( thanks KubeloLive )
-added TakAir Airplane and both placed
-added PrisonIsland, deleted the Castle ( but i have save the files ) never trust DayZ Tools
-added a Locationinfo for a Secret
-added Proxy`s for smd_dum_olez_istan2_open2
-added Contaminated Area
-changed the Position of wolves and NBC zombies
-added 3 Trailer
-added Camonet Desert
-aded Road blockade South Island
-added Trailerpark
-
-jOoPs — 06.12.2024 13:59
-Land_smd_hiluxT / land_hiluxT = Land_wreck_hiluxT
-land_datsun01T =  Land_wreck_datsun01T
-land_datsun02T = Land_wreck_datsun02T
-
-gilt für alle Objekte des Types Wreck ....
-Land_wreck_bvpLt, Land_wreck_datsun01T, Land_wreck_datsun02T, Land_wreck_hiluxT, Land_wreck_jeept, Land_wreck_jeept_horeznacky, Land_wreck_jeept_tanker, Land_wreck_m113t, Land_wreck_s1023_ambulance, Land_wreck_uralt
-
-all wreck Land-Classes are now scope=public (2)
-
-changes in smd_sao > buildings
-smd_budova3_open added (doors + oven-bila)
-smd_cihlovej_dum_mini added window  geometry
-smd_deutshe_mini added oven-bila
-smd_dumruina_mini added  (moved from smd_sao > buildings > ruins)
-smd_kostel_mexico geometry reworked
-smd_Panelak alpha-texture-error fixed
-smd_majak ladder adjusted
-smd_majak2 ladder adjusted
-smd_sara_domek_sedy added doorgrips
-removed benzina_schnell.p3d
-removed smd_budova3_open-OLD.p3d
-removed smd_benzina_schnell_open-OLD.p3d
-removed smd_dum_mesto_in-OLD.p3d
-removed smd_ss_hangar_withdoor.p3d
-removed smd_ss_hangard_withdoor.p3d
-removed smd_stanice-OLD.p3d
-removed smd_watertower1-OLD.p3d
-
-changes in smd_sao > buildings > ruins
-dumruina_mini removed (moved to smd_sao > buildings - renamed!)
-config.cfg added class house to prevent logspamn (missing class house)
-
-changes in smd_sao > buildings > furniture
-fireplace_big model added
-
-changes in smd_roads
-asf6konec roadway adjusted
-
-changes in smd_sahrani_scripts
-new buildings added to withfireplace.c
-
-note:
-diera_X.p3d could be removed
-kopa_X.p3d could be removed
-
-
-
-added Ambulance Event
-added Scientist Briefcase Event
-
-added Inventory in the Rhamadi hangar
-added Book with the lore / information about the bunker etc. 
-added a new Barel / Key Event ready
-added Oilrig 
-(JOpPs)
-changes in smd_sao > buildings > funiture
-blankets_EP1.p3d added
-bowl_EP1.p3d added
-carpet_2_EP1.p3d added
-carpetV2_EP1.p3d added
-curtain_EP1.p3d added
-curtain_mirrored_EP1.p3d added
-pubg.p3d added
-urn_EP1.p3d added
-vase_EP1.p3d added
-vase_loam_EP1.p3d added
-vase_loam_2_EP1.p3d added
-vase_loam_3_EP1.p3d added
-Vojenska_palanda_modre.p3d added
-[17:45]
-changes in smd_sao > buildings
-smd_dum_m2.p3d replaced with enterable/2 doors/fireplace
-smd_sara_domek_hospoda.p3d replaced with enterable 4 door
-smd_sara_zluty_statek_in.p3d proxies changes/updates
-smd_sara_domek_ruina.p3d proxie changes/updates
-changes in smd_sao > buildings > furniture
-case_a.p3d added
-case_d.p3d added
-case_cans_b.p3d added
-library_a.p3d added
-lobby_case.p3d added
-radio_b.p3d added
-teapot_EP1.p3d added
-tv_a.p3d added
-
-changes in smd_sao > buildings
-smd_house_y_open.p3d replaced with enterable 4 door/proxie LOD fixed
-
-changes in smd_sao > buildings > misc
-removed semafor.p3d
-Stoplight01.p3d blinklight-effect added and active by default now
-
-changes in smd_sao > buildings
-smd_dum_m2.p3d proxies added
-smd_sara_zluty_statek_in proxies, oven, doorgrips added
-smd_bouda3 replaced 4 doors/ sfx-env
-smd_hut04 reworked
-smd_Panelak /2/3 textures replaced
-
-changes in smd_sahrani_scripts
-smd_sara_zluty_statek_in added to fireplaces.c
-
-changes in smd_sao > buildings > furniture
-Vojenska_palanda.p3d updated material
-Vojenska_palanda_modre.p3d updated material
-Vojenska_palanda_blue.p3d added
-
-changes in smd_sao > buildings > furniture
-postel_manz_kov.p3d updated material
-postel_manz_kov_green.p3d added
-postel_manz_kov_blue.p3d added
-
-changes in smd_sao > buildings
-smd_sara_domek_podhradi_1.p3d replaced (needs position adjustment - pixelwise)
-
-changes in smd_sao > buildings > misc
-smd_trashcan added
-
-general
-hellalot material changes in several buildings
-
-added new Landrover
-
-Landrover
-Landrover Sahrani
-Landrover Red
-Landrover Woodland
-Landrover RACS
-Landrover RACS Digi
-Landrover ACRS
-
-added Spawnabletypes / Types / Event for all Landrover
-added Wreck Merlin for Helicrash
-
-added Event for Landrover
-added White Death
-
-changes in smd_sao > buildings
-Barrack2_desert.p3d added (mil_barracks_round_desert.p3d replacement)
-Ind_Oil_Pump_EP1.p3d MLOD, animation port
-smd_bouda_plech_open.p3d adjusted position
-smd_bouda3 bugfix model-normals/shadow
-smd_dum_olez_istan2_open2.p3d added fireplace
-smd_garaz_mala_open.p3d bugfix doorcontroller
-smd_hut04.p3d adjusted position
-smd_sara_domek_ruina.p3d replaced fireplace
-smd_stanice.p3d bugfix model-shadows
-
-changes ind smd_sao > buildings > furniture
-case_d.p3d reworked geometry
-fireplace_medium.p3d added
-
-changes in smd_ss
-new buildings added to fireplace.c
-Land_wreck_hc3_merlin added to wreck-crashbase.c
-
-changes in sahrani_assets
-wreck_hc3_merlin.p3d reworked (position/memorypoints/etc...)
-
-changes in mission-file mapproto
-Land_Wreck_C130J added lootpoints
-Land_Wreck_C130J_Cargo added lootpoints
-Land_smd_bouda3 adjusted lootpoints
-Land_smd_dum_m2 added lootpoints
-Land_smd_garaz_mala_open added lootpoints
-Land_smd_majak adjusted lootpoints
-Land_smd_majak2 adjusted lootpoints
-Land_smd_Vysilac_FM adjusted lootpoints
-Land_smd_Vysilac_FM2 adjusted lootpoints
-
-
-- Project synchronized Status 20/12/2024
-- synchronization and adjustment mapgroupproto
-- 2 additional heliwrecks added ( Merlin AirTak and Merlin Medic) Lootpoints added
-- Added S1203 in events, spawnabletypes, types and spawnpoints
-- Kamaz ( 30 variation / skin / build ) added to events, spawnabletypes, types and spawnpoints
----> VehicleMix3 S1203 / Kamaz / Landrover
-- Navmesh calculated
--Port in Corazol changed
-
-added new Helicrash Models ( Types / Event / Mapgroupproto )
-  -Merlin Dahoman
-  -Merlin Ion
-  -Merlin Lux
-  -Merlin President
-  -Vrana
-  -Wave
-added a Cat model for proxies
-added 3 new Location
-changed SupportBillboard
-added Ford Bronco / Motorhome and GMC (Events, Spawnabletypes, Types)
-
-changes in smd_sao > buildings
-smd_bouda1.p3d replaced with own model
-smd_sara_domek_ruina.p3d polished and proxies added
-
-changes in smd_sao > buildings > furniture
-light_bathroom.p3d added
-light_kitchen_03.p3d added
-curtainrail.p3d added
-fluor_lamp.p3d added
-
-changes in mission-file mapproto
-Land_smd_bouda1 added lootpoints
-Land_smd_sara_domek_ruina changed lootpoints
-
-changes in smd_sao > buildings
-smd_sara_domek_hospoda.p3d retextured
-smd_sara_domek_sedy.p3d retextured and new fireplace(2t2) added
-smd_deutshe_mini.p3d fixed oven uhli
-smd_hospoda_mesto.p3d added oven uhli
-Ryb_domek.p3d fixed oven uhli
-smd_sara_domek_podhradi_1.p3d added oven uhli
-smd_sara_zluty_statek_in.p3d fixed oven uhli
-smd_budova3_open.p3d fixed oven uhli
-smd_bouda1.p3d fixed oven uhli
-smd_house_y_open.p3d fixed LOD und geometry - added different materials
-Ind_FuelStation_Sign_ep1.p3d added fire-geometry - using DZ pentration-matatrial now
-
-changes in smd_sao > buildings > misc
-zavora_2.p3d REMOVED!
-Sakhal-Fishes" added
-changes in smd_roads
-15 path road models added
-
-changes in smd_sao > buildings
-smd_bouda1.p3d fixed wrong materialpath
-
-changes in smd_sao > buildings > ruins
-budova1_ruins.p3d added
-budova2_ruins.p3d added
-budova3_ruins.p3d added
-budova4_in_ruins.p3d added
-budova4_ruins.p3d added
-budova5_ruins.p3d added
-
-changes in smd_sao > signs
-all 337 signs converted to P3DM and updated for DZ fully
-
-!!! removed folder skybox from smd_sao 
-changes in smd_sao > buildings
-smd_dum_mesto_in.p3d added oven uhli
-smd_sara_domek_zluty.p3p added doorgrip and fireplace 2t2
-smd_house_y_open.p3d added fireplace 2t2
-
-changes in sahrani_scripts
-buildings added to fireplace.c
-
-changed the Village Mercalilli
-cenged the Area Cabo Base Militar and Selva Base Militar
-
-Changes in smd_sahrani_rocks
-stone3a.p3d replaced old surface (kameny.paa) with DZ stone_ext.paa (roadway-lod)
-stone3x.p3d replaced old surface (kameny.paa) with DZ stone_ext.paa (roadway-lod)
-stone4_invert.p3d replaced old surface (kameny.paa) with DZ stone_ext.paa (roadway-lod)
-stone4a.p3d replaced old surface (kameny.paa) with DZ stone_ext.paa (roadway-lod)
-stone4x.p3d replaced old surface (kameny.paa) with DZ stone_ext.paa (roadway-lod)
-
-Changes in smd_sao > misc > data
-betonovy_blok.rvmat ...texture linked to DZ (outsourced)
-
-Changes in smd_sao > misc
-datsun01T.p3d replaced old surface (plechaprolis.paa) with DZ metal_thick_ext.paa (roadway-lod)
-datsun02T.p3d replaced old surface (plechaprolis.paa) with DZ metal_thick_ext.paa (roadway-lod)
-hiluxT.p3d replaced old surface (plechaprolis.paa) with DZ metal_thick_ext.paa (roadway-lod)
-
-Changes in smd_sao > buildings
-smd_budova3_open.p3d replaced oven uhli model
-smd_garaz_open.p3d added (3doors + proxies)
-smd_sara_zluty_statek_in.p3d proxymodel replaced with own version of workbench_dz.p3d
-
-Changes in smd_sao > buildings > furniture
-workbench_dz.p3d added (p3dm version)
-Unnecessary P3D removed from Arsteinen and integrated into Sahrani_Assets
-
-
-Changes in smd_sao > buildings
-smd_dum_mesto2.p3d added oven uhli / lod 7+10 fixed / proxies changed + lod sorting / mapproto changed
-
-Changes in smd_ss
-smd_dum_mesto2.p3d added to fireplaces
-
-Changes in missionfile > mapGroup
-Land_smd_army_hut2_int
-Land_smd_army_hut3_long_int
-Land_smd_benzina_schnell_open
-Land_smd_dum_m2
-Land_smd_dum_mesto2
-Land_smd_dumruina_mini
-Land_smd_garaz_mala_open
-Land_smd_hut01
-Land_smd_majak
-Land_smd_majak2
-Land_smd_sara_domek_ruina
-Land_smd_sara_domek_zluty
-Land_smd_stanice
-Land_smd_dum_olez_istan2_open
-
-Changes in smd_sao > buildings
-smd_Panelak.p3d new proxies
-
-Changes in missionfile > mapGroup
-Land_smd_army_hut_int
-Land_smd_dum_mesto2 (point fix)
-Land_smd_Panelak
-
-Changes in smd_sahrani_veg
-banana_2.p3d reworked (useraction/envsound/plantwind)
-banana_3.p3d reworked (useraction/envsound/plantwind)
-banana_4.p3d reworked (useraction/envsound/plantwind)
-les_buk.p3d reworked (experimental)
-oliva.p3d reworked (useraction/envsound)
-
-!!! complete overhaul and cleanup
-
-tree > les_buk.p3d removed
-tree > oliva.p3d (useraction/envsound/plantwind)
-bush > dd_bush01.p3d  added (useraction/envsound/plantwind)
-bush > dd_bush02.p3d added (useraction/envsound/plantwind)
-
-Changes in smd_ss
-DynamicMusicPlayer setup finished > different location_static_priority-sets
-cities_south/cities_north soundsets
-airfield/military soundsets
-bunker/special soundsets
-
-Added Teleporter and Script
-
-Changes in smd_sao > buildings
-Barracks2_desert.p3d removed!
-mil_barracks_round_desert.p3d reworked new model (P3DM)
-mil_barracks5_desert.p3d fixed texturepath in material
-mil_tent_big1_1_desert.p3d reworked new model (P3DM)
-mil_tent_big1_2_desert.p3d reworked new model (P3DM)
-mil_tent_big1_3_desert.p3d reworked new model (P3DM)
-mil_tent_big1_4_desert.p3d reworked new model (P3DM)
-mil_tent_big1_5_desert.p3d reworked new model (P3DM)
-mil_tent_big1_desert.p3d reworked new model (P3DM)
-mil_tent_big2_1_desert.p3d reworked new model (P3DM)
-mil_tent_big2_2_desert.p3d reworked new model (P3DM)
-mil_tent_big2_3_desert.p3d reworked new model (P3DM)
-mil_tent_big2_4_desert.p3d reworked new model (P3DM)
-mil_tent_big2_5_desert.p3d reworked new model (P3DM)
-mil_tent_big2_desert.p3d reworked new model (P3DM)
-mil_tent_big3_desert.p3d reworked new model (P3DM)
-mil_tent_big4_desert.p3d reworked new model (P3DM)
-smd_army_hut_int.p3d added proxies/mapGroup adjusted
-smd_budova3_open.p3d replaced oven uhli model with more detailed version
-smd_dum_mesto2.p3d added oven uhli
-smd_dum_mesto_in.p3d added proxies + chimney/oven/mapGroup
-smd_garaz_mala_open.p3d reworked door-model
-smd_garaz_open.p3d added - proxies/mapGroup
-smd_house_y_open.p3d reworked chimney-geoLOD
-smd_Panelak.p3d added proxies/MapGroup
-smd_sara_domek_hospoda.p3d added proxies - texture changes
-smd_sara_domek_kovarna.p3d replaced with new model/proxies/oven/mapGroup
-smd_sara_zluty_statek_in.p3d  replaced oven uhli model with more detailed version
-
-Changes in smd_sao > buildings > proxy
-tent_big1_desert.p3d reworked new model (P3DM)
-tent_big2_desert.p3d reworked new model (P3DM)
-
-Changes in smd_ss
-smd_dum_mesto2.p3d added to fireplace.c
-smd_sara_domek_kovarna.p3d added to fireplace.c
-
-Changes in smd_sao > buildings > sounds
-unused soundfiles removed!
-
-! reworked door-damagezones in smd_sao > buildings > config.cpp (Bearbeitet)
-
-Changes in smd_sao > misc
-wreck_s1023_ambulance.p3d replaced with P3DM
-
-Changes in smd_sao > buildings
-dum_istan3_hromada.p3d removed not used!
-mil_atc_small_desert.p3d replaced with P3DM
-smd_bouda_plech_open.p3d doors-inside-textures replaced
-smd_dum_m2.p3d added lekarnicka as proxy
-smd_dum_olez_istan1_open.p3d removed glass in LOD and FireGeo/fixed a window
-smd_dum_olez_istan2_maly2.p3d added window-frames lowerfloor
-smd_Panelak2.p3d replaced with P3DM/surface-textures replaced
-smd_Panelak3.p3d replaced with P3DM/surface-textures replaced
-smd_ss_hangar_forest.p3d reworked model to fix textures not probably loading in
-smd_ss_hangar_desert.p3d reworked model to fix textures not probably loading in/doors textures fixed
-village_healthcare_desert.p3d replaced with P3DM
-
-all building proxy LOD's reworked to loading in at correct distance by renderer (client fps boost)
-
-
-pletivo_slope.p3d added plot-model
-
-Changes in smd_sao > buildings
-mil_atc_small_desert.p3d fixed door3 in config.cfg/removed path-LOD
-smd_budova3_open.p3d added missing fundation to LOD1
-smd_garaz_mala.p3d added MLOD (not used, could be removed!)
-smd_hlaska reworked LOD's, ladder-function added
-smd_vysilac_FM.p3d added redlightblink
-smd_vysilac_FM2.p3d added redlightblink
-
-removed, not used anymore
-diera_1.p3d
-diera_2.p3d
-diera_4.p3d
-diera_6.p3d
-diera_7.p3d
-diera_9.p3d
-diera_10.p3d
-diera_11.p3d
-kopa_1.p3d
-kopa_2.p3d
-kopa_3.p3d
-kopa_4r.p3d
-
-Changes in smd_sao > buildings
-smd_garaz_s_tankem.p3d proxy-adjustment/mapGroupProto reworked
-smd_watertower1.p3d overhaul GeoLOD's/proper ladder-function added/RedLightBlink added/mapGroupProto reworked
-
-changed Sahrani Assets
-
-added Roasway to the Pyramide
-
-
-changed MudEnoch to CES 
-changed MapGroupproto Stanek1 / Stanek1b / Stanek2 / Stanek2b / Stanek3 / Satanek3b / Stanek4 and Stanek 4b
-
-smd_dum_olez_istan2_open2.p3d reworked LOD's/windows added
-smd_statek_kulna.p3d reworked LOD's/windows added
-
-changed Startgear @ init.c
-
-Vanilla T-shirt and breeches set to 0 in the types. replaced by retextured items
-added "Hawaii_Shirt_1", "Hawaii_Shirt_2", "Hawaii_Shirt_3", "Hawaii_Shirt_4", "Hawaii_Shirt_5", "MrBanana", "Cowboy_Shirt"
-added "Hawaii_Breeches_1", "Hawaii_Breeches_2", "Hawaii_Breeches_3", "Hawaii_Breeches_4", "Hawaii_Breeches_5"
-
-Changes in smd_sao > buildings
-smd_dum_olez_istan1_open.p3d overhaul all LOD's/added proxies/added fireplace/created mapGroupProto
-
-Changes in smd_ss
-smd_dum_olez_istan1_open.p3d added to fieplace.c
-
-Changes in smd_sao > buildings
-smd_garaz_s_tankem.p3d fixed GeoLOD missing mass on two components
-
-
-Anderungen 05.02.2025:
-
-in the areflags contaminated zone in Cabo Miltäry removed and set back to T4 
-
-T2 zone extended to Paraiso and Paraiso Airfield
-
-Changes in smd_sahrani_scripts (smd_ss)
-
-removed terik_darkniss stuff
-added viewdistance-cap to missionGameplay.c
-added item map_sahrani (layout colors needs to be adjusted)
-
-we went back to DayZ underground system in the bunker
-T- Zone changed / Rhamadi T4 and remove the Playerspawnpoint on this Island
+Sahrani Assets
+added Boat with new Texture and 70 Slots 
+added Barrel Schnell & Firebarrel
+added Barrel Milk & Firebarrel
+added Coconutwater
+added Skelekton / thanks to Kubelo ( Banov Dev )
+added a NEW PunchedCard for a other Entrence ( Panel Work in Process =
+added a river / Cave with a AlphaBear
+---------> TYPES!!!!!!!
+
+TerraniBuilder
+changed Monte Asharah
+
+Sahrani Mission
+
+added Types (Sahrani Assets)
+changed the Position for the Scintistbriefcase to the Isla del Zorra
+changed Undergroundtrigger to Darknesscript Main Bunker Area / NVG is working
+
+SAO > buildings
+  added kasna_new.p3d (misc_fountain dry),
+  added kasna_new_bez.p3d,
+  added kasna_sucha.p3d
+  opened smd_orlhot.p3d (14),
+  opened smd_dum_istan3.p3d (43)
+
+added kasna_new.p3d (misc_fountain dry),
+added kasna_new_bez.p3d,
+added kasna_sucha.p3d
+opened smd_orlhot.p3d (14),
+opened smd_dum_istan3.p3d (43)
+opened smd_dumruina.p3d (8)
+
+smd_bouda_plech_open.xml,
+smd_bouda3.xml,
+smd_dum_mesto3_istan.xml
+
+smd_deutshe.p3d - optimized ResLOD's,
+smd_dum_istan2.p3d - optimized ResLOD's/reworked windows/added sfx-mempoints,
+smd_dum_istan2b.p3d - optimized ResLOD's/reworked windows/added sfx-mempoints,
+smd_dum_istan3.p3d - optimized ResLOD's/reworked proxies/added sfx-mempoints/mapGroupProto updated!,
+smd_dum_mesto3_istan.p3d - reworked proxies/mapGroupProto  updated!,
+smd_dum_olez_istan2_open2.p3d - optimized ResLOD's/correct soundset for mempoints assigned,
+smd_sara_domek_kovarna.p3d - optimized ResLOD's/added glass,
+smd_sara_domek_ruina.p3d - optimized ResLOD's/added glass/fixed broken windowbars UV's,
+smd_statek_hl_bud.p3d - optimized ResLOD's/textures changed,
+smd_kostalik.p3d - fixed
+
+Sahrani_Rocks  UPDATED!
+added two stone_clutters,
+
+
+Sahrani_Surfaces  UPDATED!
+Sara_sand1_Clutter got some grass and rocks,
+Sara_cliffface2_Clutter added wheat2 and rocks
+Road surface adapted to bridges
